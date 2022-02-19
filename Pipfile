@@ -8,6 +8,7 @@ streamlit = "*"
 sentence-transformers = "*"
 scikit-learn = "*"
 watchdog = "*"
+matplotlib = "*"
 
 [dev-packages]
 
